@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="KI_Logo_496px.png" alt="Kerberos Interactive Logo" width="150"/>
+  <img src="https://github.com/KerberosInteractive/.github/blob/main/profile/KI_Logo_496px.png" alt="Kerberos Interactive Logo" width="150"/>
   <h1>Kerberos Interactive</h1>
   <p><b>Design. Develop. Document.</b></p>
 </div>
