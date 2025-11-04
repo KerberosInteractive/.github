@@ -14,7 +14,7 @@ This is where we highlight our public-facing and open-source work.
 
 | Project                                    | Description                                        | Status      |
 | ------------------------------------------ | -------------------------------------------------- | ----------- |
-| [KINEM](https://github.com/KerberosInteractive/KINEM)    | Kerberos Interactive New Entry Manager | | ✅ Active   |
+| [KINEM](https://github.com/KerberosInteractive/KINEM)    | Kerberos Interactive New Entry Manager | ✅ Active   |
 | [KIDR](https://github.com/KerberosInteractive/KIDR)      | Kerberos Interactive Data Renamer for Blender.  | ✅ Active   |
 | [Kerberos Interactive Website](https://kerberosinteractive.github.io/)| Official digital presence and portfolio.       | 🚧 In Development |
 
