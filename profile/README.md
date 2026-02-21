@@ -18,23 +18,14 @@ This is where we highlight our public-facing and open-source work.
 | [KIDR](https://github.com/KerberosInteractive/KIDR)      | Kerberos Interactive Data Renamer for Blender.  | ✅ Active   |
 | [Kerberos Interactive Website](https://kerberosinteractive.github.io/)| Official digital presence and portfolio.       | 🚧 In Development |
 
-[link-to-addon]: https://github.com/Kerberos-Interactive/your-product-repo-name
-[link-to-web]: https://github.com/Kerberos-Interactive/KI-Website
-
 ## 🛠️ Technology & Expertise
 
 We leverage a myriad of tools, with a current focus on the following technologies.
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-3776AB?logo=python&style=for-the-badge&logoSize=auto&logoColor=FFF" alt="Python"/></a>
-  <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-00ADD8?logo=go&style=for-the-badge&logoSize=auto&logoColor=FFF" alt="Go"/></a>
-  <a href="https://jekyllrb.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CC0000?logo=jekyll&style=for-the-badge&logoSize=auto&logoColor=FFF" alt="Jekyll"/></a>
-</p>
-
-<p align="center">
-  <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-F5792A?logo=blender&style=for-the-badge&logoSize=auto&logoColor=FFF" alt="Blender"/></a>
-  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-0E1128?logo=unrealengine&style=for-the-badge&logoSize=auto&logoColor=FFF" alt="Unreal Engine"/></a>
-</p>
+<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/go.svg" height="64" alt="Go"/></a>
+<a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="64" alt="Python"/></a>
+<a href="https://blender.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blender.svg" height="64" alt="Blender"/></a>
+<a href="https://unrealengine.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unreal-engine-dark.svg" height="64" alt="Unreal Engine"/></a>
 
 ## 📫 Get in Touch
 
